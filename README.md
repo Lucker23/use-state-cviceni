@@ -1,4 +1,4 @@
-# Cvičení: React Stav
+# Dota2 coach NONEK Gaming by Lucker23
 
 ## Zadání
 

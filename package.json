@@ -1,7 +1,7 @@
 {
-  "name": "react-starter-kit",
+  "name": "dota2-coach-nonek-gaming-by-lucker23",
   "version": "1.0.0",
-  "description": "Starter kit for React JavaScript project",
+  "description": "Dota2 coach NONEK Gaming by Lucker23",
   "type": "module",
   "scripts": {
     "dev": "vite",
