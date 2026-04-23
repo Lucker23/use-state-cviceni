@@ -1,4 +1,4 @@
-# Dota2 coach NONEK Gaming by Lucker23
+# Dota2 coach test by Lucker23
 
 ## Zadání
 

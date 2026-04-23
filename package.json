@@ -1,7 +1,7 @@
 {
-  "name": "dota2-coach-nonek-gaming-by-lucker23",
+  "name": "dota2-coach-test-by-lucker23",
   "version": "1.0.0",
-  "description": "Dota2 coach NONEK Gaming by Lucker23",
+  "description": "Dota2 coach test by Lucker23",
   "type": "module",
   "scripts": {
     "dev": "vite",
